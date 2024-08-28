@@ -2,6 +2,7 @@
 ## tect report
 - SiliconCloud:
 <https://mp.weixin.qq.com/s/vXU7u13tFGapUoI-ih485A><br/>
+<https://arxiv.org/abs/2406.02528><br/>
 ## paper
 - Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation<br/>
 <https://www.usenix.org/conference/osdi24/presentation/wang-lei><br/>
