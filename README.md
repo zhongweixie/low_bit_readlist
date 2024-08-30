@@ -13,6 +13,15 @@
 - The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits<br/>
 <https://arxiv.org/abs/2402.17764><br/>
 
+- BitNet: Scaling 1-bit Transformers for Large Language Models<br/>
+<https://arxiv.org/abs/2310.11453><br/>
+> BitLinear as a drop-in replacement of the nn.Linear layer
+> insight: model is not optimized for quantized representation during training
+
+- Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark<br/>
+<https://arxiv.org/abs/2402.11592><br/>
+<https://github.com/ZO-Bench/ZO-LLM><br/>
+
 - Matmul or No Matmal in the Era of 1-bit LLMs<br/>
 <https://arxiv.org/pdf/2408.11939><br/>
 
