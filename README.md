@@ -10,11 +10,16 @@
 - BitNet: Scaling 1-bit Transformers for Large Language Models<br/>
 <https://arxiv.org/abs/2310.11453><br/>
 
--RetNet(https://arxiv.org/pdf/2307.08621)<br/>
--Mamba(https://arxiv.org/abs/2312.00752)<br/>
--GLA(https://arxiv.org/abs/2312.06635)<br/>
--RWKV(https://arxiv.org/abs/2305.13048)<br/>
--TransnormerLLM(https://arxiv.org/abs/2307.14995)<br/>
+- RetNet<br/>
+<https://arxiv.org/pdf/2307.08621><br/>
+- Mamba<br/>
+<https://arxiv.org/abs/2312.00752><br/>
+- GLA<br/>
+<https://arxiv.org/abs/2312.06635><br/>
+- RWKV<br/>
+<https://arxiv.org/abs/2305.13048><br/>
+- TransnormerLLM<br/>
+<https://arxiv.org/abs/2307.14995><br/>
 
 ## optimizer
 - Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark<br/>
