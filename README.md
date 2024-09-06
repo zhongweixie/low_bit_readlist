@@ -49,7 +49,7 @@ Mixed-precision:<br/>
 - Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization <br/>
 <https://mp.weixin.qq.com/s/FKP2-pU_EFh1pYFbPooJrg><br/><https://arxiv.org/pdf/2311.16442><br/>
 
-- Zhen-Dong/Awesome-Quantization-Papers: List of papers related to neural network quantization in recent AI conferences and journals. (github.com) <br/>
+- Zhen-Dong/Awesome-Quantization-Papers: <https://github.com/Zhen-Dong/Awesome-Quantization-Papers> <br/>
 
 - Matmul or No Matmal in the Era of 1-bit LLMs<br/>
 <https://arxiv.org/pdf/2408.11939><br/>
