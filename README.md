@@ -46,7 +46,7 @@ FQT: <br/>
 - GitHub: https://github.com/xijiu9/Train_Transformers_with_INT4 <br/>
 
 Mixed-precision:<br/>
-https://mp.weixin.qq.com/s/FKP2-pU_EFh1pYFbPooJrg  https://arxiv.org/pdf/2311.16442<br/>
+- Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization <https://mp.weixin.qq.com/s/FKP2-pU_EFh1pYFbPooJrg><https://arxiv.org/pdf/2311.16442><br/>
 
 - Zhen-Dong/Awesome-Quantization-Papers: List of papers related to neural network quantization in recent AI conferences and journals. (github.com) <br/>
 
