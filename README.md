@@ -27,6 +27,34 @@
 <https://github.com/ZO-Bench/ZO-LLM><br/>
 
 ## quantization
+QAT: <br/>
+
+BitNet (binary version): https://arxiv.org/abs/2310.11453 <br/>
+
+BitNet (ternary version): https://arxiv.org/abs/2402.17764 <br/>
+
+GitHub: https://github.com/kyegomez/BitNet <br/>
+
+OneBit: https://arxiv.org/abs/2402.11295  <br/>
+
+Github: https://github.com/xuyuzhuang11/OneBit  <br/>
+
+PTQ: <br/>
+
+BiLLM: https://arxiv.org/abs/2402.04291  <br/>
+
+FQT: <br/>
+
+Training Transformers with 4-bit Integers: https://arxiv.org/abs/2306.11987  <br/>
+
+GitHub: https://github.com/xijiu9/Train_Transformers_with_INT4 <br/>
+
+ 
+
+Zhen-Dong/Awesome-Quantization-Papers: List of papers related to neural network quantization in recent AI conferences and journals. (github.com) <br/>
+
+
+
 - Matmul or No Matmal in the Era of 1-bit LLMs<br/>
 <https://arxiv.org/pdf/2408.11939><br/>
 
