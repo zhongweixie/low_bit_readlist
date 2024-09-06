@@ -35,11 +35,11 @@ QAT: <br/>
 
 - OneBit: https://arxiv.org/abs/2402.11295  Github: https://github.com/xuyuzhuang11/OneBit  <br/>
 
-- PTQ: <br/>
+PTQ: <br/>
 
 - BiLLM: https://arxiv.org/abs/2402.04291  <br/>
 
-- FQT: <br/>
+FQT: <br/>
 
 - Training Transformers with 4-bit Integers: https://arxiv.org/abs/2306.11987  <br/>
 
